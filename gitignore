@@ -1,0 +1,21 @@
+# IDE - VS Kodu
+.vs kodu / *
+! .vscode / ayarlar.json
+! .vscode / görevler.json
+! .vscode / başlat.json
+! .vscode / extensions.json
+
+# img
+*.jpg
+*.png
+img/
+
+# videos
+*.mp4
+
+# packages
+
+# log
+*.log
+
+password.txt
